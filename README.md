@@ -23,6 +23,7 @@ And provide a detailed report mentioning the answers to the related questions. <
 4. Weekly Engagement: Calculate the weekly engagement per device?
 5. Email Engagement: Calculate the email engagement metrics?
 <hr>
+
 ## Operation Analytics
 ### 1. Number of Jobs reviewed: Number  of jobs reviewed per hour per day.
 
